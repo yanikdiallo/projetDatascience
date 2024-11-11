@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 import pandas as pd
-import sklearn
+#import sklearn
 import os
 
 # Charger le modèle avec Pickle
