@@ -1,4 +1,0 @@
-streamlit==1.16.0        # Version de Streamlit, à ajuster selon votre projet
-scikit-learn==1.2.2      # Version de scikit-learn, ajustez en fonction de vos besoins
-pandas==1.5.3            # Version de pandas, ajustez en fonction de vos besoins
-pickle-mixin==1.0.1      # Si vous utilisez pickle avec Streamlit
